@@ -11,3 +11,8 @@ resource "google_compute_network" "vpc_network" {
   
   name="terraform-network"
 }
+# we are creating another network (VPC@)
+resource "google_compute_network" "vpc_network" {
+  
+  name="my-network"
+}
