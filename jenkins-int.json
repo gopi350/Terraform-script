@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "tokyo-dynamo-349216",
+    "private_key_id": "1b528b3fb3bd1ef27c6291c7c54eae0c81cc81aa",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDO5YzI4YA+QT1\nQKzZPrRysT8qZE2NSAKHaQzJERIGZ9LK3eyvdxjn73+hCxqdOuAoFF8duamz27l2\nk+2rIayRPm8wg8BNnbrMfVyiGJeXgbclEOLbpw+0vkSJWHuhNyK2SmvEjikdhuMw\nWZ8plxqg+1XrI6ps7zD5LChWY9ZLordfFl/JuKVSxJCkpazDylXKDS/69IoibSoD\nMmUDA2Z767weVlt3h8vQTtkkMMO/ioVejHGEGDYm1zkOkjv5GECixuqU15drFPFl\nBeHvsuRRMwqtyaN+Mcr5hY2HZG5PPrQ2lzdMx1iBlLbLCfES+WaTU5ju3nyh37Mf\nWi2T8zhdAgMBAAECggEAGdynWW/fvPo/y2M9YmvZiIXtSabO1SPQXfKvBGWT/zA6\nrq/2PgonTPYfcIxhgql9byG/tdbV4aL+LvSKm8xSqUzdes5BJ6b4y0TiBAEA98tx\noOHbQ2CehoFb39vOSL1ehkpWe0ufq68mIk4E9QP0vZV9vK/VUCfhU2ijkUoZZZxV\nY3E7FtO4QbPyR05j1YxuwS5honb8P1F3uqFIDAnRTCwF74SQLVYl/jWQd6KL1muL\nOgA3lBC89DuZD9srcwJ5g7PRgf8XxvJcm0VQBhsR2w9HcpXGIbebcXLlrToafTFk\nivbG4SmocUVfQ3riaAkUeXWbb4lVA/kP0qFkgV4GcQKBgQD4MGpS1/aTjBjyK3GL\n+DKVl7LerWvbczC7+h154l6lxOQYdkFpzuttJPx8qSK5qn+vrbgh5dOLGUhN41/o\n0AHjTy/+M4OW7UGxR9Jhqxr0KdUdlaIA2lCfNXD+ATMDRWNNpwUP+5Rt8AUGSjcu\n4ORBu3eevr8zDgUO7USkKehCNQKBgQDJYIScBLWyXrRZGHLUhsKLLIZgyeGY3oOC\nXVQe6er38j88WBxEGGPj/RcZlM/seizFZbXY+s6VO5KgG8C2nkKYiH71SoBfj0Nk\nRvVkAZCF49XeS56c63RikVYQhAg7VTtY/F9G066hSwRIsfIm4n6yJgPKB6RdfNnl\nPZA3sgHiiQKBgFooREdp2lHI/7rhGzNMaxu6aqjHeLnUQ2zVs+V13Qn81xsnwiVs\nnEset3WVf17Q1+d6hLwTn+AUxBY/NbT98uGe/4EpN3EZKNb8jykZngX6OEex9pK2\nu7jKEgzDZMOYbjVkKcufiVDScxDQ3vDxkxlpv090XUJvoljEyj2UV6HNAoGAJpvX\nsOYCRAl+QFq8oVyY7gACX4o1M47t3c+w8iBdCV6rmxE1kiSu+iYrCJ+MYcVm0g3X\nGJu1gc0jJolLoHelQwNge/zlseyQuigUojDemZz+Axmydll6Pe+pdY8q2N1VfJEe\nX0D0iT4NuzZKvAPO0K8TKOfgLoBicl4kSVlanSkCgYAloqej8JuXsPfCAJUDAD9I\naOMwPhpfxLXB/S4zGZz+fUXuvuCiD70+hZNbKBh81TA7Ps2WL+vm6Ysd1WGlnl0c\nN8aychBkDynx3acQz8mS4+z+BZoyvpNDRu8g7D+Vqgyy/8Vb/PjPvjH+oa3QscDz\nMc7MKiWwisukOkzcoKNVtw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "jenkin-int-gcp@tokyo-dynamo-349216.iam.gserviceaccount.com",
+    "client_id": "108509005069846597513",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkin-int-gcp%40tokyo-dynamo-349216.iam.gserviceaccount.com"
+  }
